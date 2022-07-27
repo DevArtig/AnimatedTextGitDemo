@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: darkslategray;
+    background-color: rgb(113, 0, 100);
 }
 
 h1 {
